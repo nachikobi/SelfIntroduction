@@ -1,3 +1,9 @@
+.main {
+  display: block;
+  width: 970px;
+  margin: 30px auto 40px;
+}
+
 h2 {
   color: #3cb371;
 }
